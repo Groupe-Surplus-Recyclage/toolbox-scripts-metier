@@ -1,0 +1,15 @@
+# Claude Code
+.claude/
+
+# Fichiers temporaires Office
+~$*.xlsx
+~$*.docx
+~$*.xls
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
